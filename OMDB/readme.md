@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Starting a Film Project
+# Starting a Film Project
 
 Clone this [starter repo](https://github.com/WDI-SEA/react-film-starter-repo), `npm install`, and run with `npm start`.
 
@@ -156,7 +156,7 @@ const allDogs = this.props.dogs.map((dog, i) => <DogComponent dog={dog} key={`go
   </details>
 
 #### Step 7: Flesh out each film row
-
+git 
 Make each film row in the film list look like the main finished image, using the following markup (replace "TITLE" and "YEAR" with the actual title and year of the film).
 
 ```jsx
