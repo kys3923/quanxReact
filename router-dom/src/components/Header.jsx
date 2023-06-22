@@ -10,6 +10,7 @@ const Header = (props) => {
         <li className={listStyle}><a href='/products'>products</a></li>
         <li className={listStyle}><a href='/burgerStacker'>burger</a></li>
         <li className={listStyle}><a href='/CSStrial'>CSS Trial</a></li>
+        <li className={listStyle}><a href='/pokemon'>PokeAPI</a></li>
       </ul>
     </header>
   );

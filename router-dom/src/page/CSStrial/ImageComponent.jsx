@@ -1,6 +1,5 @@
 const ImageComponent = ({title, subtitle, images1, images2, images3, boxText}) => {
 
-  console.log(images1)
   return (
     <div className="flex flex-col items-center">
       <div className="flex flex-col items-center my-8">

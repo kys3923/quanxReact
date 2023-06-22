@@ -12,12 +12,12 @@ export const Images = [
   {
     id: 3,
     src: 'https://raw.githubusercontent.com/kys3923/css-airbnb/master/img/new-york.jpg',
-    name: 'NewYork'
+    name: 'New York'
   },
   {
     id: 4,
     src: 'https://raw.githubusercontent.com/kys3923/css-airbnb/master/img/san-francisco-2.jpg',
-    name: 'SanFrancisco2'
+    name: 'San Francisco'
   },
   {
     id: 5,
@@ -27,6 +27,6 @@ export const Images = [
   {
     id: 6,
     src: 'https://raw.githubusercontent.com/kys3923/css-airbnb/master/img/san-francisco.jpg',
-    name: 'SanFrancisco'
+    name: 'San Francisco'
   },
 ]
